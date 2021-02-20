@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208433117859",
+    "project_id": "future-campaign-283405",
+    "storage_bucket": "future-campaign-283405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208433117859:android:f5869acf87cedd56ee1d16",
+        "android_client_info": {
+          "package_name": "com.example.fbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208433117859-ijan3b4i48es7uodv2v4mra055uci3tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYuO752QzQ4SPELickTc63CWcUCw4780"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208433117859-ijan3b4i48es7uodv2v4mra055uci3tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
